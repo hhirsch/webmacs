@@ -1,2 +1,2 @@
 # webmacs
-Hackable editor written in js
+Hackable editor based on ymacs written in js
